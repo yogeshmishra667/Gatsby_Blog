@@ -1,0 +1,35 @@
+.header{
+    font-size: 3rem ;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding:1rem 0 3rem ;
+
+}
+.title {
+    color: #000000;
+    font-size: 3rem;
+    text-decoration: none;
+}
+
+.navList{
+display: flex;
+list-style: none;
+
+}
+.navItem{
+    text-decoration: none;
+    margin-right: 30px;
+    color: rgb(57, 80, 19);
+    font-size: .9rem ;
+    font-weight: 400;
+    text-transform: uppercase;
+
+}
+
+.activeNavItem{
+color:rgb(174, 236, 68)
+}
+
+  

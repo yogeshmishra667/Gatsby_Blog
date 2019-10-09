@@ -1,0 +1,38 @@
+.para{
+    display:inline-block;
+    justify-items: center;
+    position: absolute;
+    padding-left: 30px;
+    font-size: 20px;
+    line-height: 6rem;
+    
+    
+}
+
+
+.head{
+    display: inline-block;
+    position: relative;
+    
+}
+
+
+.data{
+   
+    padding: 2rem;
+    
+ 
+    & p{
+        letter-spacing: 1px;
+    }
+    & h2{
+       
+        margin: 20px 0px;
+        letter-spacing: 2px;
+
+    }
+    & li:not(:last-child){
+        padding-bottom: 20px;
+        
+    }
+}
