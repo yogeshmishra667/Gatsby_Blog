@@ -40,4 +40,4 @@ const BlogPage = () => {
   )
 }
 
-export default BlogPage
+export default BlogPage;
